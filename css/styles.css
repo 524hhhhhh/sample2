@@ -4,7 +4,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	height: 100vh;
-	background-image: url(/sample/images/kitty.png);
+	background-image: url(/images/kitty.png);
 	background-size: cover;
 	margin: 0;
 }
@@ -14,8 +14,8 @@ body {
 	height: 650px;
 	position: relative;
 	transform-style: preserve-3d;
-	animation: spin 4s ease-in-out; /* 두 번 회전 설정 */
-	animation-fill-mode: forwards; /* 애니메이션 종료 후 상태 유지 */
+	animation: spin 4s ease-in-out; /* 두 번 회전 */
+	animation-fill-mode: forwards; /* 상태 유지 */
 }
 
 .front,

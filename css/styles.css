@@ -4,7 +4,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	height: 100vh;
-	background-image: url(/SAMPLE2/images/kitty.png);
+	background-image: url(/sample2/images/kitty.png);
 	background-size: cover;
 	margin: 0;
 }

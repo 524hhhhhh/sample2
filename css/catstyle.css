@@ -1,5 +1,5 @@
 body {
-	background-color: #2d2d2d;
+	background-size: cover;
 	text-align: center;
 	margin: 3% 0%;
 	padding: 0;
@@ -21,7 +21,7 @@ body {
 
 div,
 h1 {
-	color: #ffffff;
+	color: #232323;
 }
 
 .mainCat img {

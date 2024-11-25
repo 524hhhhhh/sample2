@@ -1,19 +1,24 @@
 body {
 	margin: 0;
+	margin-top: 50px;
 	padding: 0;
+	text-align: center;
 	background-color: #fcfcfc;
 }
 
 .catBlock {
+	background-color: #2d2a5c;
 	column-count: 4;
 	column-gap: 20px;
 	row-gap: 20px;
 	padding: 20px;
+	margin: 0% 5%;
+	border-radius: 10px;
 }
 
 .catItem {
 	background-color: #2d2a5c;
-	border-radius: 10px;
+	border: 10px;
 	box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.4);
 	margin-bottom: 20px;
 }
@@ -21,4 +26,5 @@ body {
 .catItem img {
 	width: 100%;
 	display: block;
+	border-radius: 20px;
 }

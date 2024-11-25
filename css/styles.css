@@ -75,7 +75,7 @@ body {
 
 button {
 	float: right;
-	gap: 50px;
+	margin: 5px;
 }
 
 h4 {
